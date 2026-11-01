@@ -1,0 +1,28 @@
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+__pycache__/
+*.py[cod]
